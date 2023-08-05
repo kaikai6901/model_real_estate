@@ -1,0 +1,8 @@
+pandas
+numpy
+pymongo
+requests
+unidecode
+scikit-learn
+mlflow
+tqdm

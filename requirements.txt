@@ -6,3 +6,4 @@ unidecode
 scikit-learn
 mlflow
 tqdm
+boto3
